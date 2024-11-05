@@ -1,0 +1,11 @@
+Table: meals
+1,12.00,2005.12.25,breakfast
+2,12345,1234,asdfgh
+3,11234,1234,1234
+4,12.20,2005-12-25,dinner
+Table: recipes
+1,biriyani,fdhghghfgfhfghf,ewtretyguhi
+2,biriyani,"akku,masalaetc",super
+Table: groceries
+Table: cart
+Table: discounts
